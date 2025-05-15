@@ -127,9 +127,9 @@ const HeroSection = () => {
                 </button>
               </div>
 
-              {/* Foreground Illustration */}
+              
               <img
-                className="absolute -bottom-39 -left-30 object-cover h-400  "
+                className="absolute -bottom-39 -left-30 object-cover h-350  "
                 src="/boybg.png"
                 alt="Character"
               />

@@ -15,7 +15,7 @@ export default function AboutPage() {
      <Navbar />
       
       {/* Hero Section */}
-      <section className="bg-gradient-to-r from-gray-900 to-black py-20">
+      <section className="bg-gradient-to-r from-gray-900 to-black py-35">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
             <h1 className="text-5xl font-bold mb-4">About <span className="text-blue-400">SnapForge</span></h1>
